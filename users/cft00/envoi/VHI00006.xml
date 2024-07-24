@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ech:ServiceCarter xmlns:ech="http://xml.inetpsa.com/Carter/EchangesSystemesExternes">
+  <ech:Entete>
+    <ech:ServiceEntrant>
+      <ech:Expediteur>
+        <ech:IdentificationSIV>811251W</ech:IdentificationSIV>
+      </ech:Expediteur>
+      <ech:NomServiceEntrant>s4_DT_VIN</ech:NomServiceEntrant>
+    </ech:ServiceEntrant>
+    <ech:BalisePersonnalisation>811251W</ech:BalisePersonnalisation>
+  </ech:Entete>
+  <ech:Configuration>
+    <ech:CodePays>true</ech:CodePays>
+  </ech:Configuration>
+  <ech:DonneesVin>
+    <ech:VIN>
+      <iden:WMI xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">VR3</iden:WMI>
+      <iden:VDS xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">USHNKK</iden:VDS>
+      <iden:VIS xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">NJ569804</iden:VIS>
+    </ech:VIN>
+  </ech:DonneesVin>
+  <ech:DonneesVin>
+    <ech:VIN>
+      <iden:WMI xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">VR3</iden:WMI>
+      <iden:VDS xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">USHNSS</iden:VDS>
+      <iden:VIS xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">NJ570563a</iden:VIS>
+    </ech:VIN>
+  </ech:DonneesVin>
+  <ech:DonneesVin>
+    <ech:VIN>
+      <iden:WMI xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">VR3</iden:WMI>
+      <iden:VDS xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">UKZKXZ</iden:VDS>
+      <iden:VIS xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">NJ570633</iden:VIS>
+    </ech:VIN>
+  </ech:DonneesVin>
+  <ech:DonneesVin>
+    <ech:VIN>
+      <iden:WMI xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">VR3</iden:WMI>
+      <iden:VDS xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">UKZKXZ</iden:VDS>
+      <iden:VIS xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">NJ570625</iden:VIS>
+    </ech:VIN>
+  </ech:DonneesVin>
+  <ech:DonneesVin>
+    <ech:VIN>
+      <iden:WMI xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">VR3</iden:WMI>
+      <iden:VDS xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">UKZKXZ</iden:VDS>
+      <iden:VIS xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">NJ570622</iden:VIS>
+    </ech:VIN>
+  </ech:DonneesVin>
+  <ech:DonneesVin>
+    <ech:VIN>
+      <iden:WMI xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">VR3</iden:WMI>
+      <iden:VDS xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">USHNSS</iden:VDS>
+      <iden:VIS xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">NJ570028</iden:VIS>
+    </ech:VIN>
+  </ech:DonneesVin>
+  <ech:DonneesVin>
+    <ech:VIN>
+      <iden:WMI xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">VR3</iden:WMI>
+      <iden:VDS xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">USHNSS</iden:VDS>
+      <iden:VIS xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">NJ573431</iden:VIS>
+    </ech:VIN>
+  </ech:DonneesVin>
+  <ech:DonneesVin>
+    <ech:VIN>
+      <iden:WMI xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">VR3</iden:WMI>
+      <iden:VDS xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">USHNSS</iden:VDS>
+      <iden:VIS xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">NJ570351</iden:VIS>
+    </ech:VIN>
+  </ech:DonneesVin>
+  <ech:DonneesVin>
+    <ech:VIN>
+      <iden:WMI xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">VR3</iden:WMI>
+      <iden:VDS xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">USHNKK</iden:VDS>
+      <iden:VIS xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">NJ569780</iden:VIS>
+    </ech:VIN>
+  </ech:DonneesVin>
+  <ech:DonneesVin>
+    <ech:VIN>
+      <iden:WMI xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">VF3</iden:WMI>
+      <iden:VDS xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">VFEHTM</iden:VDS>
+      <iden:VIS xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">NZ011786</iden:VIS>
+    </ech:VIN>
+  </ech:DonneesVin>
+  <ech:DonneesVin>
+    <ech:VIN>
+      <iden:WMI xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">VF3</iden:WMI>
+      <iden:VDS xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">VFEHTM</iden:VDS>
+      <iden:VIS xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">N7005056</iden:VIS>
+    </ech:VIN>
+  </ech:DonneesVin>
+  <ech:DonneesVin>
+    <ech:VIN>
+      <iden:WMI xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">VF3</iden:WMI>
+      <iden:VDS xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">VFEHTM</iden:VDS>
+      <iden:VIS xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">N7005055</iden:VIS>
+    </ech:VIN>
+  </ech:DonneesVin>
+  <ech:DonneesVin>
+    <ech:VIN>
+      <iden:WMI xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">VF3</iden:WMI>
+      <iden:VDS xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">VFEHZ7</iden:VDS>
+      <iden:VIS xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">N7005627</iden:VIS>
+    </ech:VIN>
+  </ech:DonneesVin>
+  <ech:DonneesVin>
+    <ech:VIN>
+      <iden:WMI xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">VF3</iden:WMI>
+      <iden:VDS xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">VFEHTM</iden:VDS>
+      <iden:VIS xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">N7005598</iden:VIS>
+    </ech:VIN>
+  </ech:DonneesVin>
+  <ech:DonneesVin>
+    <ech:VIN>
+      <iden:WMI xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">VF3</iden:WMI>
+      <iden:VDS xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">VFEHZ7</iden:VDS>
+      <iden:VIS xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">N7005581</iden:VIS>
+    </ech:VIN>
+  </ech:DonneesVin>
+  <ech:DonneesVin>
+    <ech:VIN>
+      <iden:WMI xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">VF3</iden:WMI>
+      <iden:VDS xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">VFEHS7</iden:VDS>
+      <iden:VIS xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">N7005916</iden:VIS>
+    </ech:VIN>
+  </ech:DonneesVin>
+  <ech:DonneesVin>
+    <ech:VIN>
+      <iden:WMI xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">VF3</iden:WMI>
+      <iden:VDS xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">VFEHTM</iden:VDS>
+      <iden:VIS xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">N7005616</iden:VIS>
+    </ech:VIN>
+  </ech:DonneesVin>
+  <ech:DonneesVin>
+    <ech:VIN>
+      <iden:WMI xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">VF3</iden:WMI>
+      <iden:VDS xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">VFEHZ7</iden:VDS>
+      <iden:VIS xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">N7004643</iden:VIS>
+    </ech:VIN>
+  </ech:DonneesVin>
+  <ech:DonneesVin>
+    <ech:VIN>
+      <iden:WMI xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">VF3</iden:WMI>
+      <iden:VDS xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">VFEHZ7</iden:VDS>
+      <iden:VIS xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">N7005593</iden:VIS>
+    </ech:VIN>
+  </ech:DonneesVin>
+  <ech:DonneesVin>
+    <ech:VIN>
+      <iden:WMI xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">VF3</iden:WMI>
+      <iden:VDS xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">VFEHTM</iden:VDS>
+      <iden:VIS xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">N7004676</iden:VIS>
+    </ech:VIN>
+  </ech:DonneesVin>
+  <ech:DonneesVin>
+    <ech:VIN>
+      <iden:WMI xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">VF3</iden:WMI>
+      <iden:VDS xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">VFEHS7</iden:VDS>
+      <iden:VIS xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">N7005966</iden:VIS>
+    </ech:VIN>
+  </ech:DonneesVin>
+  <ech:DonneesVin>
+    <ech:VIN>
+      <iden:WMI xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">VF3</iden:WMI>
+      <iden:VDS xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">VFEHZ7</iden:VDS>
+      <iden:VIS xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">N7005065</iden:VIS>
+    </ech:VIN>
+  </ech:DonneesVin>
+  <ech:DonneesVin>
+    <ech:VIN>
+      <iden:WMI xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">VF3</iden:WMI>
+      <iden:VDS xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">VFEHTM</iden:VDS>
+      <iden:VIS xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">N7004602</iden:VIS>
+    </ech:VIN>
+  </ech:DonneesVin>
+  <ech:DonneesVin>
+    <ech:VIN>
+      <iden:WMI xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">VF3</iden:WMI>
+      <iden:VDS xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">VFEHS7</iden:VDS>
+      <iden:VIS xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">N7005075</iden:VIS>
+    </ech:VIN>
+  </ech:DonneesVin>
+  <ech:DonneesVin>
+    <ech:VIN>
+      <iden:WMI xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">VF3</iden:WMI>
+      <iden:VDS xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">VFEHZ7</iden:VDS>
+      <iden:VIS xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">N7005987</iden:VIS>
+    </ech:VIN>
+  </ech:DonneesVin>
+  <ech:DonneesVin>
+    <ech:VIN>
+      <iden:WMI xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">VF3</iden:WMI>
+      <iden:VDS xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">VFEHTM</iden:VDS>
+      <iden:VIS xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">N7005986</iden:VIS>
+    </ech:VIN>
+  </ech:DonneesVin>
+  <ech:DonneesVin>
+    <ech:VIN>
+      <iden:WMI xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">VF3</iden:WMI>
+      <iden:VDS xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">M45GYV</iden:VDS>
+      <iden:VIS xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">HS058455</iden:VIS>
+    </ech:VIN>
+  </ech:DonneesVin>
+  <ech:DonneesVin>
+    <ech:VIN>
+      <iden:WMI xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">VP7</iden:WMI>
+      <iden:VDS xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">M45GYV</iden:VDS>
+      <iden:VIS xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">KS009696</iden:VIS>
+    </ech:VIN>
+  </ech:DonneesVin>
+  <ech:DonneesVin>
+    <ech:VIN>
+      <iden:WMI xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">VF3</iden:WMI>
+      <iden:VDS xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">VFEHTM</iden:VDS>
+      <iden:VIS xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">N7004706</iden:VIS>
+    </ech:VIN>
+  </ech:DonneesVin>
+  <ech:DonneesVin>
+    <ech:VIN>
+      <iden:WMI xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">VF3</iden:WMI>
+      <iden:VDS xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">VFEHZ7</iden:VDS>
+      <iden:VIS xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">N7005608</iden:VIS>
+    </ech:VIN>
+  </ech:DonneesVin>
+  <ech:DonneesVin>
+    <ech:VIN>
+      <iden:WMI xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">VF3</iden:WMI>
+      <iden:VDS xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">VFEHTM</iden:VDS>
+      <iden:VIS xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">N7005604</iden:VIS>
+    </ech:VIN>
+  </ech:DonneesVin>
+</ech:ServiceCarter>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ech:ServiceCarter xmlns:ech="http://xml.inetpsa.com/Carter/EchangesSystemesExternes">
+  <ech:Entete>
+    <ech:ServiceEntrant>
+      <ech:Expediteur>
+        <ech:IdentificationSIV>811251W</ech:IdentificationSIV>
+      </ech:Expediteur>
+      <ech:NomServiceEntrant>s4_DT_VIN</ech:NomServiceEntrant>
+    </ech:ServiceEntrant>
+    <ech:BalisePersonnalisation>811251W</ech:BalisePersonnalisation>
+  </ech:Entete>
+  <ech:Configuration>
+    <ech:CodePays>true</ech:CodePays>
+  </ech:Configuration>
+  <ech:DonneesVin>
+    <ech:VIN>
+      <iden:WMI xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">VR3</iden:WMI>
+      <iden:VDS xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">_____</iden:VDS>
+      <iden:VIS xmlns:iden="http://xml.inetpsa.com/ProduitProcess/Vehicule/Identification">NJ569804</iden:VIS>
+    </ech:VIN>
+  </ech:DonneesVin>
+</ech:ServiceCarter>
